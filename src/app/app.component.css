@@ -1,0 +1,22 @@
+h1 {
+    margin-bottom: 0;
+    color: blue;
+  }
+  nav a {
+    padding: 1rem;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 3px;
+    display: inline-block;
+    background-color: #30f0a6;
+    color: #7707e0;
+    border-radius: 4px;
+  }
+  
+  nav a:hover {
+    color: white;
+    background-color: #f1a008;
+  }
+  nav a.active {
+    background-color: black;
+  }
